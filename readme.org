@@ -1,7 +1,0 @@
-#+title: freeCodeCamp Responsive Web Design
-
-* Tribute Page
-* Survey Form
-* Product Page
-* Technical Docs
-* Portfolio Page
